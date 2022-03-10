@@ -1,0 +1,9 @@
+.DS_store
+NDSR_GRB_allpaths/build
+NDSR_GRB_allpaths/*.log
+NDSR_GRB_allpaths/ndsr_grb_allpaths.code-workspace
+SCIP_BranchPrice/bin
+SCIP_BranchPrice/obj
+SCIP_BranchPrice/.vscode/
+data/*.log
+
