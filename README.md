@@ -62,7 +62,7 @@ Each line in the `*Commodities:`  section starts with the index of the commodity
 
 Similarly, each line in The `*Arcs` section starts with the index of the arc, the tail and head of the arc, the fixed cost, variable cost and the resources/weights (2 here) that will be consumed when a commidity is routed through this arc. 
 
-All the algorithms have a built in reader that reads these files and creates the appropriate datastructures that will them be used to solve the problems. 
+All the algorithms have a built in reader that reads these files and creates the appropriate datastructures that will then be used to solve the problems. 
 
 
 
