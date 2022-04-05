@@ -6,4 +6,5 @@ SCIP_BranchPrice/bin
 SCIP_BranchPrice/obj
 SCIP_BranchPrice/.vscode/
 data/*.log
+.vscode/
 

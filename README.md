@@ -2,7 +2,7 @@
 
 
 # NDSR algorithms:
-The code for the paper for https://arxiv.org/abs/2107.01101
+This repository contains the code associated with the paper "Network Design with Service Requirements: Scaling-up the Size of Solvable Problems” (to appear on INFORMS Journal on Computing). A preprint is available at https://arxiv.org/abs/2107.01101 
 
 ### Input Data
 
